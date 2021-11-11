@@ -1,1 +1,1 @@
-# Malaria-detection-using-vgg19-project
+# malaria_detection_VGG19
